@@ -1,0 +1,3 @@
+rootProject.name = 'emdr_5381'
+
+include ':app'
